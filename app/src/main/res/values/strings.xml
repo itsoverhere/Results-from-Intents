@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lab Result Intents</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_age_request">AgeRequestActivity</string>
+    <string name="title_activity_gender_request">GenderRequestActivity</string>
+
+</resources>
